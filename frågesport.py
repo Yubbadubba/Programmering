@@ -11,10 +11,3 @@ if (answer == "A"):
 
 
 else:
-
-if (helg):
-    sova
-elif( studiedag):
-    sova
-else:
-    plugga
