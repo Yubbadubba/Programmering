@@ -4,7 +4,7 @@ class Fighter:
     def __init__(self, name, hp):
         self.name = name
         self.hp = hp
-
+1
 def attack(attacker, defender):
     damage = random.randint(5, 10)  # Slumpar skada mellan 5 och 10
     defender.hp -= damage
